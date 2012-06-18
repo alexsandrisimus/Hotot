@@ -28,11 +28,11 @@
 		"description": "data/js/ui.template.js"
 	},
 	"advanced": {
-		"message": "Advanced",
+		"message": "Розширені",
 		"description": "data/index.html"
 	},
 	"all": {
-		"message": "All",
+		"message": "Все",
 		"description": "data/index.html"
 	},
 	"api_base": {
@@ -44,11 +44,11 @@
 		"description": "data/index.html"
 	},
 	"appearance": {
-		"message": "Appearance",
+		"message": "Зовнішній вигляд",
 		"description": "data/index.html"
 	},
 	"archive": {
-		"message": "Archive",
+		"message": "Архів",
 		"description": "data/index.html"
 	},
 	"assassin_s_tango": {
@@ -56,7 +56,7 @@
 		"description": "data/index.html"
 	},
 	"authentication_ok": {
-		"message": "Authentication OK!",
+		"message": "Авторизація пройшала успішно!",
 		"description": "data/js/ui.welcome.js"
 	},
 	"author": {
@@ -64,11 +64,11 @@
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"auto_update": {
-		"message": "Auto Update",
+		"message": "Автоматичне оновленняe",
 		"description": "data/index.html"
 	},
 	"automatically_sign_in_after_opening": {
-		"message": "Automatically sign in after opening",
+		"message": "Заходити після відкриття",
 		"description": "data/index.html"
 	},
 	"balance_between_attractiveness_and_preformance": {
@@ -80,11 +80,11 @@
 		"description": "data/index.html"
 	},
 	"bio": {
-		"message": "Bio",
+		"message": "О собі",
 		"description": "data/index.html"
 	},
 	"block": {
-		"message": "Block",
+		"message": "Блок",
 		"description": "data/js/ui.template.js"
 	},
 	"bloody_marguerite": {
@@ -92,31 +92,31 @@
 		"description": "data/index.html"
 	},
 	"cancel": {
-		"message": "Cancel",
+		"message": "Відміна",
 		"description": "data/index.html"
 	},
 	"cannot_authenticate_you_please_check_your_username_or_password_and_api_base": {
-		"message": "Cannot authenticate you! Please check your username/password and API Base",
+		"message": "Не можемо авторизуватися! Перевірте ваш логін та пароль та базу API",
 		"description": "data/js/ui.welcome.js"
 	},
 	"charactor_at_is_not_allow_in_profile_prefix": {
-		"message": "Character `@` is not allowed in profile prefix",
+		"message": "Символ `@` не може використовувать в префіксі профайла",
 		"description": "data/js/ui.welcome.js"
 	},
 	"clean_token": {
-		"message": "Clean token",
+		"message": "Очистити розмову",
 		"description": "data/index.html"
 	},
 	"clear": {
-		"message": "Clear",
+		"message": "Очистити",
 		"description": "data/index.html"
 	},
 	"clear_and_close": {
-		"message": "Clear & Close",
+		"message": "Очистити та закрити",
 		"description": "data/index.html"
 	},
 	"click_me_to_continue": {
-		"message": "Click Me to Continue",
+		"message": "Натисніть щоб продовжити",
 		"description": "data/index.html"
 	},
 	"click_the_button_below": {
@@ -136,7 +136,7 @@
 		"description": "data/js/ui.template.js"
 	},
 	"close": {
-		"message": "Close",
+		"message": "Зачинити",
 		"description": "data/index.html"
 	},
 	"close_current_column": {
@@ -144,7 +144,7 @@
 		"description": "data/index.html"
 	},
 	"compose": {
-		"message": "Compose",
+		"message": "Створити",
 		"description": "data/index.html"
 	},
 	"compose_messages_to": {
@@ -156,7 +156,7 @@
 		"description": "data/index.html"
 	},
 	"copy_to_clipboard": {
-		"message": "Copy into clipboard",
+		"message": "Скопіювати до буфера обміну",
 		"description": "date/index.html"
 	},
 	"create_a_list": {
@@ -180,19 +180,19 @@
 		"description": "data/index.html"
 	},
 	"delete": {
-		"message": "Delete",
+		"message": "Видалити",
 		"description": "data/index.html"
 	},
 	"delete_this_tweet": {
-		"message": "Delete this tweet",
+		"message": "Видалити цей твіт",
 		"description": "data/js/ui.template.js"
 	},
 	"destroy_successfully": {
-		"message": "Destroyed Successfully!",
+		"message": "Руйнування успішне!",
 		"description": "data/js/ui.main.js"
 	},
 	"disable": {
-		"message": "Disable",
+		"message": "Відсутні",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"disable_decoration_of_widgets_and_some_animations": {
@@ -220,11 +220,11 @@
 		"description": "data/index.html"
 	},
 	"edit": {
-		"message": "Edit",
+		"message": "Редагувати",
 		"description": "data/js/ui.template.js"
 	},
 	"effects": {
-		"message": "Effects",
+		"message": "Ефекти",
 		"description": "data/index.html"
 	},
 	"effects_extra": {
@@ -232,15 +232,15 @@
 		"description": "data/index.html"
 	},
 	"effects_low": {
-		"message": "Low",
+		"message": "Низькі",
 		"description": "data/index.html"
 	},
 	"effects_normal": {
-		"message": "Normal",
+		"message": "Нормальні",
 		"description": "data/index.html"
 	},
 	"enable": {
-		"message": "Enable",
+		"message": "Присутні",
 		"description": "data/js/ui.exts_dlg.js"
 	},
 	"enable_proxy": {
@@ -256,15 +256,15 @@
 		"description": "data/index.html"
 	},
 	"errors": {
-		"message": "Errors",
+		"message": "Помилки",
 		"description": "data/index.html"
 	},
 	"examples": {
-		"message": "Examples",
+		"message": "Приклад",
 		"description": "data/index.html"
 	},
 	"exit_hotot_when_close_window": {
-		"message": "Exit Hotot when close window",
+		"message": "Виходити з Hotot коли закривати вікно",
 		"description": "data/index.html"
 	},
 	"extensions": {
@@ -292,11 +292,11 @@
 		"description": "data/index.html"
 	},
 	"find": {
-		"message": "Find",
+		"message": "Знайти",
 		"description": "data/index.html"
 	},
 	"fine": {
-		"message": "Fine",
+		"message": "Добре",
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"first_time_to_sign_in_with_twitter": {
@@ -304,11 +304,11 @@
 		"description": "data/index.html"
 	},
 	"follow": {
-		"message": "Follow",
+		"message": "Слідувати",
 		"description": "data/js/ui.template.js"
 	},
 	"follow_at": {
-		"message": "Follow @",
+		"message": "Слідувати за @",
 		"description": "data/js/ui.main.js"
 	},
 	"follower_cnt": {
@@ -332,11 +332,11 @@
 		"description": "data/index.html"
 	},
 	"friend_cnt": {
-		"message": "Friend",
+		"message": "Друг",
 		"description": "data/js/ui.template.js"
 	},
 	"friends": {
-		"message": "Friends",
+		"message": "Друзі",
 		"description": "data/js/ui.template.js"
 	},
 	"global": {
@@ -352,11 +352,11 @@
 		"description": "data/index.html"
 	},
 	"help": {
-		"message": "Help",
+		"message": "Допомога",
 		"description": "data/index.html"
 	},
 	"hey_it_is_you": {
-		"message": "Hey, it's You!",
+		"message": "Це ви!",
 		"description": "data/js/ui.peopleview.js"
 	},
 	"hidden_dark_minds": {
